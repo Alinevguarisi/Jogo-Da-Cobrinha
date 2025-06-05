@@ -26,7 +26,7 @@ Este projeto é **um teste de aprendizagem** baseado na implementação clássic
   - Pressione `C` para jogar novamente.
   - Pressione `Q` para sair.
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3.x
 - Pygame
