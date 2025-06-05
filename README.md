@@ -6,12 +6,12 @@ Este projeto é **um teste de aprendizagem** baseado na implementação clássic
 ##  Interface
 
 ### Tela do Jogo
-![image](https://github.com/user-attachments/assets/4d10787f-b106-4463-9b26-9c9d4bdf9c9f)width="500"/>
+![image](https://github.com/user-attachments/assets/4d10787f-b106-4463-9b26-9c9d4bdf9c9f)
 
 
 ### Tela de Game Over
 
-<img src="![image](https://github.com/user-attachments/assets/9fa07b7f-34d5-48e9-9c5b-7948f2aa5e10)" width="500"/>
+![image](https://github.com/user-attachments/assets/1c65413c-07d4-48c3-b185-910cb5bdba7e)
 
 ##  Como Jogar
 
